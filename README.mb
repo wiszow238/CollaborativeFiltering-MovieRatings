@@ -1,0 +1,18 @@
+# Requirements
+libraries to install: (install in this order)
+ - pip install numpy
+ - pip install scipy
+ - pip install -U scikit-learn
+
+# Technical requirements:
+ - Python 3.4.3
+
+# libraries:
+ - numpy (1.10.4)
+ - scikit-learn (0.17.1)
+ - scipy (0.17.0)
+
+
+Dataset should be in same location as the python script and should be named "train.txt"
+To execute, go to same directory as script and type "python3 CollaborativeFiltering.py", then follow instructions
+on the command.
